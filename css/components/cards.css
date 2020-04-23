@@ -6,7 +6,7 @@
 }
 
 .card {
-    width: 200px;
+    width: 250px;
     border-radius: 3px;
     box-shadow: 0 0 5px rgb(230,230,230);
     text-align: center;
@@ -15,5 +15,5 @@
   }
 
 .card img {
-    height: 100px;
+    height: 120px;
 }
